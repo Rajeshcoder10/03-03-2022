@@ -1,0 +1,7 @@
+
+# program to merge two tuples
+
+t1=input()
+t2=input()
+t3=t1+t2
+print(t3)
